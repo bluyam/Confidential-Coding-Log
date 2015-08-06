@@ -1,0 +1,22 @@
+Weeks 1 & 2 (06/22 - 07/02)
+
+Job-specific training
+
+Weeks 3 - 6 (07/06 - 07/31)
+
+Job-specific APIs
+Eclipse IDE
+Maven and Dependencies
+Java Program Design/Debugging
+Exposure to Python
+Exposure to SOAP/REST protocols and wsdl
+JSON Data Formatting
+BottleRocket Android Bootcamp
+
+Week 7 (08/03 - 08/07)
+
+Networking Basics/Web Applications (TCP/IP Model, Ethernet, Client/Server Model)
+Apache Tomcat 
+Selenium
+Java Applet Design
+Test Result Documentation
