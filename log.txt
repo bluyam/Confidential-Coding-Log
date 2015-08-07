@@ -7,16 +7,18 @@ Weeks 3 - 6 (07/06 - 07/31)
 Job-specific APIs
 Eclipse IDE
 Maven and Dependencies
-Java Program Design/Debugging
+Java Program Design/Debugging (Ordering Tool)
 Exposure to Python
 Exposure to SOAP/REST protocols and wsdl
 JSON Data Formatting
 BottleRocket Android Bootcamp
 
-Week 7 (08/03 - 08/07)
+Week 7 (08/03 - 08/06)
 
 Networking Basics/Web Applications (TCP/IP Model, Ethernet, Client/Server Model)
 Apache Tomcat 
 Selenium
-Java Applet Design
+Java Program Design (Catalog Toolkit)
 Test Result Documentation
+
+8/07: Continued work on Catalog Toolkit
