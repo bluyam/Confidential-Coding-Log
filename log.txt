@@ -22,3 +22,6 @@ Java Program Design (Catalog Toolkit)
 Test Result Documentation
 
 8/07: Continued work on Catalog Toolkit
+
+8/10: Meeting to discuss Toolkit/Change of Direction
+      Continued developing Toolkit
