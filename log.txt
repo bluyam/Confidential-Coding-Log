@@ -30,5 +30,6 @@ Test Result Documentation
       Began planning for item/database tool
 
 8/12: Completed Catalog Toolkit v1
-      Installed Apache Tomcat on remote server
+      Installed Apache Tomcat on remote Ubuntu server
+      Began reevaluation of /government UX
 
