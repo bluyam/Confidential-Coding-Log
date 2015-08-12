@@ -29,3 +29,6 @@ Test Result Documentation
 8/11: Continued developing Catalog Toolkit
       Began planning for item/database tool
 
+8/12: Completed Catalog Toolkit v1
+      Installed Apache Tomcat on remote server
+
