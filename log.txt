@@ -33,3 +33,7 @@ Test Result Documentation
       Installed Apache Tomcat on remote Ubuntu server
       Began reevaluation of /government UX
 
+8/13: Deployed testing framework
+      Begain debugging/modifying testing framework for new environment
+
+8/18: Further debugging
