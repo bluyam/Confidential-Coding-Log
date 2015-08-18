@@ -35,5 +35,7 @@ Test Result Documentation
 
 8/13: Deployed testing framework
       Begain debugging/modifying testing framework for new environment
+      
+8/14 - 8/17: Hack The Planet :D
 
 8/18: Further debugging
