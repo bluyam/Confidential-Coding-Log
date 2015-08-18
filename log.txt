@@ -17,7 +17,7 @@ Week 7 (08/03 - 08/06)
 
 Networking Basics/Web Applications (TCP/IP Model, Ethernet, Client/Server Model)
 Apache Tomcat 
-Selenium
+Exposure to Selenium
 Java Program Design (Catalog Toolkit)
 Test Result Documentation
 
