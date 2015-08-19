@@ -39,3 +39,7 @@ Test Result Documentation
 8/14 - 8/17: Hack The Planet :D
 
 8/18: Further debugging
+
+8/19: Presented internship summary
+      Completed round 2 of /government UX evaluation
+      
