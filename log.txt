@@ -41,5 +41,7 @@ Test Result Documentation
 8/18: Further debugging
 
 8/19: Presented internship summary (http://bit.ly/1TVUqI4)
-      Completed round 2 of /government UX evaluation
+      Continued working on UX evaluation
+      
+8/20: Completed round 2 of /government UX evaluation
       
